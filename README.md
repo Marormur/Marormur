@@ -6,7 +6,7 @@
 - 🍕 I code better when the coffee’s strong  
 
 ### 🧰 Tech Stack
-`C#` · `.NET` · `WPF` · `TypeScript` · `TailwindCSS` · `Docker` · `macOS`
+`C#` · `.NET` · `WPF` · `Docker` · `macOS`
 
 ### 🔧 Currently working on
 - macOS-style web desktop → [marvintemmen.de](https://marvintemmen.de)  
